@@ -1,6 +1,6 @@
 # 𝙃𝙞, 𝙄'𝙢 𝘼𝙞𝙙𝙖𝙣!
 
-[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=aidanlao&url=https%3A%2F%2aidanlao.vercel.app)](https://aidanlao.vercel.app/)
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=aidanlao&url=https%3A%2F%2Faidanlao.vercel.app)](https://aidanlao.vercel.app/)
 
 𝑰 ❤️ 𝙁𝙪𝙡𝙡 𝙨𝙩𝙖𝙘𝙠 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩!
 
