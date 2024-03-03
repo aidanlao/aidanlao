@@ -30,6 +30,4 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
 
-## 𝗦𝘁𝗮𝘁𝘀
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=aidanlao&show_icons=true&theme=dracula)
