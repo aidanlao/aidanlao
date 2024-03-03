@@ -10,12 +10,9 @@
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
-<a href="https://projecttechcareers.com/cc/">
+<a href="https://projecttechcareers.com/cc/">𝐏𝐓𝐂'𝐬 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐂𝐨𝐝𝐞𝐬</a>
 
-𝐏𝐓𝐂'𝐬 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐂𝐨𝐝𝐞𝐬</a>
-
-<a href="https://testflight.apple.com/join/BHwCjTev">
-𝐀𝐒𝐨𝐜𝐢𝐚𝐥.'𝐬 𝐁𝐞𝐭𝐚 𝐑𝐞𝐥𝐞𝐚𝐬𝐞 (try it out here)
+<a href="https://testflight.apple.com/join/BHwCjTev">𝐀𝐒𝐨𝐜𝐢𝐚𝐥.'𝐬 𝐁𝐞𝐭𝐚 𝐑𝐞𝐥𝐞𝐚𝐬𝐞 (try it out here)
 </a>
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
