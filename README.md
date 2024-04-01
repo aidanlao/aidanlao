@@ -12,7 +12,7 @@
 
 <a href="https://projecttechcareers.com/cc/">𝐏𝐓𝐂'𝐬 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐂𝐨𝐝𝐞𝐬</a>
 
-<a href="https://testflight.apple.com/join/BHwCjTev">𝐀𝐒𝐨𝐜𝐢𝐚𝐥.'𝐬 𝐁𝐞𝐭𝐚 𝐑𝐞𝐥𝐞𝐚𝐬𝐞 (try it out here)
+<a href="https://tryasocial.com/?referral=aidan">𝐀𝐒𝐨𝐜𝐢𝐚𝐥.'𝐬 𝐁𝐞𝐭𝐚 𝐑𝐞𝐥𝐞𝐚𝐬𝐞 (try it out here)
 </a>
 ## Tech stack
 
